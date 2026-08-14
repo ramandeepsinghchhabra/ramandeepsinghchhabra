@@ -1,143 +1,143 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=00FF9C&center=true&vCenter=true&multiline=true&width=700&height=100&lines=whoami;Ramandeep+Singh+Chhabra;CSE+(Advanced+AI)+Student+%40+Medi-Caps;Building+things+one+idea+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&pause=1200&color=818CF8&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Ramandeep+Singh+Chhabra;CSE+(Advanced+AI)+Student;Building+things+one+idea+at+a+time" alt="Typing SVG" />
 
-</div>
+<br>
 
-<div align="center">
-  <img src="https://gitsk-comp2.vercel.app/api/stats?user=ramandeepsinghchhabra" />
+<img src="https://gitsk-comp2.vercel.app/api/stats?user=ramandeepsinghchhabra" />
+
 </div>
 
 <br>
 
+<h3 align="center">👋 &nbsp;About</h3>
+
+<p align="center">
+18-year-old CSE (Advanced AI) student at Medi-Caps University.<br>
+Interested in Generative AI, full-stack dev, and vibe coding —<br>
+always building something after getting a random idea.
+</p>
+
+<br>
+
 <div align="center">
-
-```
-┌─────────────────────────────────────────────┐
-│  guest@vice-city:~$ cat about_me.txt          │
-└─────────────────────────────────────────────┘
-```
-
+<img src="https://img.shields.io/badge/-────────────────────────────────────────-818CF8?style=flat-square" />
 </div>
 
-```yaml
-name:         Ramandeep Singh Chhabra
-role:         CSE (Advanced AI) Student, Medi-Caps University
-age:          18
-location:     India
-focus:        Generative AI, full-stack dev, vibe coding
-currently:    Forge — AI-powered dev platform for building software from ideas
-also:         Gestro — gesture-controlled browser extension for short-form content
-mindset:      "Always building something after getting a random idea."
-```
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-</div>
-
-## 📡 &nbsp;Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghchhabra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_color=00FF9C" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramandeepsinghchhabra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&border_color=00FF9C" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghchhabra&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=8b949e" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-</div>
-
-## 🧰 &nbsp;Stack
+<h3 align="center">🧰 &nbsp;Stack</h3>
 
 <div align="center">
 
-**Frontend / Mobile**
+<sub><b>Frontend / Mobile</b></sub>
 <br>
 <img src="https://skillicons.dev/icons?i=nextjs,react,vite,ts,reactnative,flutter&theme=dark" />
 
 <br><br>
 
-**Backend / Infra**
+<sub><b>Backend / Infra</b></sub>
 <br>
 <img src="https://skillicons.dev/icons?i=python,nodejs,supabase,firebase,docker,azure,githubactions&theme=dark" />
 
 <br><br>
 
-**AI / ML**
+<sub><b>AI / ML</b></sub>
 <br>
 <img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" />
 
 <br><br>
 
-**Design / Tools**
+<sub><b>Design / Tools</b></sub>
 <br>
-<img src="https://skillicons.dev/icons?i=figma,adobexd,blender,photoshop,sketch,git,github,vscode,gitlab,notion,discord,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,xd,blender,photoshop,sketch,git,github,vscode,gitlab,notion,discord,postman&theme=dark" />
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-</div>
-
-## 🛠️ &nbsp;Currently Building
-
-<div align="center">
-
-| Project | Description |
-|:--|:--|
-| **Forge** | AI-powered development platform for building software from ideas |
-| **Gestro** | Gesture-controlled browser extension for short-form content |
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-</div>
-
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramandeepsinghchhabra&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Repositories,Commits,Issues,MultiLanguage,PullRequest,Reviews" />
-</div>
-
-## 📈 &nbsp;Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramandeepsinghchhabra&bg_color=0d1117&color=00FF9C&line=00FF9C&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-</div>
-
-## 💬 &nbsp;Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/-ramandeepsinghchhabra13%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0d1117)](mailto:ramandeepsinghchhabra13@gmail.com)
-[![Website](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF9C&labelColor=0d1117)](#)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramandeepsinghchhabra&color=00FF9C&style=flat-square&label=Profile+Views" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
-  
-  <sub>~ In code we trust, in bugs we debug ~</sub>
+<img src="https://img.shields.io/badge/-────────────────────────────────────────-818CF8?style=flat-square" />
+</div>
+
+<br>
+
+<h3 align="center">🛠️ &nbsp;Currently Building</h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="400" valign="top">
+
+**Forge**
+<br>
+<sub>AI-powered development platform for building software from ideas.</sub>
+
+</td>
+<td width="400" valign="top">
+
+**Gestro**
+<br>
+<sub>Gesture-controlled browser extension for short-form content.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/-────────────────────────────────────────-818CF8?style=flat-square" />
+</div>
+
+<br>
+
+<h3 align="center">🏆 &nbsp;Trophies</h3>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ramandeepsinghchhabra&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Repositories,Commits,Issues,MultiLanguage,PullRequest,Reviews" />
+</div>
+
+<br>
+
+<h3 align="center">📈 &nbsp;Activity</h3>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramandeepsinghchhabra&bg_color=0d1117&color=818CF8&line=818CF8&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/-────────────────────────────────────────-818CF8?style=flat-square" />
+</div>
+
+<br>
+
+<h3 align="center">💬 &nbsp;Connect</h3>
+
+<div align="center">
+
+<a href="mailto:ramandeepsinghchhabra13@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=818CF8&labelColor=0d1117" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=818CF8&labelColor=0d1117" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ramandeepsinghchhabra&color=818CF8&style=flat-square&label=Profile+Views" />
+</div>
+
+<br>
+
+<div align="center">
+<sub>~ In code we trust, in bugs we debug ~</sub>
 </div>
