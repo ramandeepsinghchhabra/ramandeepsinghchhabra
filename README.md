@@ -69,28 +69,56 @@ always building something after getting a random idea.
 
 <br>
 
-<h3 align="center">🛠️ &nbsp;Currently Building</h3>
+<h3 align="center">🛠️ &nbsp;Featured Projects</h3>
 
 <div align="center">
 
 <table>
 <tr>
-<td width="400" valign="top">
+<td width="420" valign="top">
 
-**Forge**
-<br>
-<sub>AI-powered development platform for building software from ideas.</sub>
+### 🔨 Forge
+
+<sub>AI-powered development platform for building software from ideas — go from a raw concept to working code without wrestling with boilerplate first.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-AI%20Dev%20Tools-0D1117?style=flat-square&labelColor=0D1117&color=818CF8" />
+<img src="https://img.shields.io/badge/-In%20Progress-0D1117?style=flat-square&labelColor=0D1117&color=818CF8" />
 
 </td>
-<td width="400" valign="top">
+<td width="420" valign="top">
 
-**Gestro**
-<br>
-<sub>Gesture-controlled browser extension for short-form content.</sub>
+### 👋 Gestro
+
+<sub>Gesture-controlled browser extension for short-form content — skip, pause, and scroll through videos using hand gestures instead of clicks.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-Browser%20Extension-0D1117?style=flat-square&labelColor=0D1117&color=818CF8" />
+<img src="https://img.shields.io/badge/-In%20Progress-0D1117?style=flat-square&labelColor=0D1117&color=818CF8" />
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/-────────────────────────────────────────-818CF8?style=flat-square" />
+</div>
+
+<br>
+
+<h3 align="center">📊 &nbsp;GitHub Stats</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/ramandeepsinghchhabra?style=for-the-badge&color=818CF8&labelColor=0D1117&label=Total%20Stars" />
+<img src="https://img.shields.io/github/followers/ramandeepsinghchhabra?style=for-the-badge&color=818CF8&labelColor=0D1117&label=Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=818CF8&labelColor=0D1117&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/ramandeepsinghchhabra" />
 
 </div>
 
@@ -121,12 +149,6 @@ always building something after getting a random idea.
 <div align="center">
 <img src="https://raw.githubusercontent.com/ramandeepsinghchhabra/ramandeepsinghchhabra/output/github-contribution-grid-snake.svg" />
 </div>
-
-<sub align="center">
-
-*Snake image goes live after a one-time setup — see the 3 steps in the chat message below.*
-
-</sub>
 
 <br>
 
