@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&pause=1200&color=818CF8&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Ramandeep+Singh+Chhabra;CSE+(Advanced+AI)+Student;Building+things+one+idea+at+a+time" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1F2E&height=200&section=header&text=Ramandeep%20Singh%20Chhabra&fontSize=42&fontColor=818CF8&fontAlignY=40&desc=CSE%20(Advanced%20AI)%20Student%20%40%20Medi-Caps%20University&descSize=16&descColor=A5B4FC&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<br>
+<br><br>
 
-<img src="https://gitsk-comp2.vercel.app/api/stats?user=ramandeepsinghchhabra" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=1200&color=818CF8&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Building+things+one+idea+at+a+time;Generative+AI+%7C+Full-stack+%7C+Vibe+coding" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Repos-2-0D1117?style=for-the-badge&logo=github&logoColor=818CF8&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Followers-0-0D1117?style=for-the-badge&logo=github&logoColor=818CF8&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Location-India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=818CF8&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Building-Forge%20%26%20Gestro-0D1117?style=for-the-badge&logo=rocket&logoColor=818CF8&labelColor=0D1117" />
 
 </div>
 
@@ -108,6 +115,18 @@ always building something after getting a random idea.
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramandeepsinghchhabra&bg_color=0d1117&color=818CF8&line=818CF8&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 </div>
+
+<br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramandeepsinghchhabra/ramandeepsinghchhabra/output/github-contribution-grid-snake.svg" />
+</div>
+
+<sub align="center">
+
+*Snake image goes live after a one-time setup — see the 3 steps in the chat message below.*
+
+</sub>
 
 <br>
 
