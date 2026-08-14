@@ -1,17 +1,7 @@
-# 👋 Hi, I'm Ramandeep
+# Ramandeep Singh Chhabra
 
-### 🚀 17 | Self‑taught | AI Orchestrator
+**18 · CSE (Advanced AI) — IBM Program · Medi-Caps University**
 
-I don't just write code – I **orchestrate AI agents** to build production‑ready tools.
+Interested in **Generative AI, coding, and building things**.
 
----
-
-## 📚 Current Learning Journey
-
-```text
-📖 Learning Path:
-├── 🦀 Rust (WebAssembly for high‑performance parsers)
-├── 🧠 Advanced Prompt Engineering & Agent Workflows
-├── 🔐 Web Security (OWASP, CSP, anti‑debugging)
-├── ⚛️ React + TypeScript (advanced patterns)
-└── ☁️ Cloud Deployment (Vercel, AWS Lambda)
+I enjoy experimenting with ideas, learning through building, and **vibe coding**.
